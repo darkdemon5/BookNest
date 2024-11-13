@@ -20,17 +20,6 @@ Similar to the impact of e-commerce on shopping, **BookNest** brings efficiency,
 - Secure and comprehensive administrative tools for library staff.
 - Real-time information on resource availability.
 
-## Installation
-(Provide instructions here for setting up BookNest on your system)
-
-## Usage
-(Include instructions on how to use BookNest once it's installed)
 
 ## Contributing
-If you'd like to contribute to BookNest, feel free to open issues or pull requests. Please follow the contribution guidelines for submitting your changes.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any questions or feedback, feel free to reach out at [your contact info].
+If you'd like to contribute to BookNest, feel free to open issues or pull requests. I'd like you to please follow the contribution guidelines for submitting your changes.
